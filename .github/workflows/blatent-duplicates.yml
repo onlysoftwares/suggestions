@@ -10,7 +10,7 @@ jobs:
       - run: |
           url="${{ github.event.issue.html_url }}"
           message='This issue has been marked as blatant duplicate, which means you have made no effort to try to check for existing issues.
-          For example a simple search for your issue title or the `Existing Plugin for other mod` link yields results.
+          For example a simple search for your issue title or the link yields results.
 
           As a consequence you are now banned from opening more requests.'
           
