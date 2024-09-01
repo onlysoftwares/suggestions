@@ -14,12 +14,12 @@ body:
 
         If a similar request already exists, **DO NOT reply** something like "i want this as well". Instead, react with :+1:. Only reply if you want to add additional info.
 
-        Skip formalities like "hello" and do not use AI to "spice up" your request. Keep it short and concise with only the information necessary.
-        ## One Request per issue
+        Skip formalities like "hello" and do not use AI to "spice up" your suggestion. Keep it short and concise with only the information necessary.
+        ## One Suggestion per issue
 
-        Do not include multiple requests in one issue. If you are making 5 requests, make 5 separate issues
+        Do not include multiple requests in one issue. If you are making 5 suggestions, make 5 separate issues
 
-        # Do not request any of these:
+        # Do not suggest any of these:
         - Things that are not softwares
         - A suggestion about a product
         - An inappropiate suggestion
@@ -43,5 +43,5 @@ body:
           required: false
         - label: I have read all the rules and followed them
           required: false
-        - label: "I [searched the existing issues](https://github.com/Vencord/plugin-requests/issues?q=is%3Aissue) and made sure a similar request doesn't already exist"
+        - label: "I [searched the existing issues](https://github.com/onlysoftwares/suggestions/issues?q=is%3Aissue) and made sure a similar suggestion doesn't already exist"
           required: false
